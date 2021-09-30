@@ -1,0 +1,6 @@
+mkdir halaman-github
+cd halaman-github
+echo "Pulau Sumba didiami oleh Suku Sumba dan terbagi atas empat kabupaten, Sumba Barat Daya, Sumba Barat, Sumba Tengah dan Sumba Timur adalah bagian dari Provinsi Nusa Tenggara Timur, Indonesia. Masyarakat Sumba secara rasial adalah campuran Ras Melanesia-Papua dan Ras Austronesia-Melayu, yang cukup mampu mempertahankan kebudayaan aslinya di tengah-tengah arus pengaruh asing yang telah singgah di kepulauan Nusa Tenggara Timur sejak dahulu kala. Kepercayaan khas daerah Marapu, setengah leluhur, setengah dewa, masih amat hidup di tengah-tengah masyarakat Sumba. Marapu menjadi falsafah dasar bagi berbagai ungkapan budaya Sumba mulai dari upacara-upacara adat, rumah-rumah ibadat (umaratu) rumah-rumah adat dan tata cara rancang bangunnya, ragam-ragam hias ukiran-ukiran dan tekstil sampai dengan pembuatan perangkat busana seperti kain-kain hinggi dan lau serta perlengkapan perhiasan dan senjata."
+git init
+git add index.html
+git commit -m "first commit"
